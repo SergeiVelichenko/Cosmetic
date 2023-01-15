@@ -4,18 +4,18 @@
 	display        : flex;
 	justify-content: space-between;
 	align-items    : center;
-	padding-top    : 40px;
-	font-weight    : 200;
-	font-size      : 18px;
+	padding-top    : 50px;
+	font-weight    : 300;
+	font-size      : 20px;
 }
 
 .header__list {
 	display        : flex;
 	justify-content: space-between;
-	width          : 700px;
+	width          : 800px;
 	align-items    : center;
-	font-weight    : 500;
-	font-size      : 22px;
+	font-weight    : 600;
+	font-size      : 24px;
 }
 
 
@@ -25,16 +25,16 @@
 }
 
 .header__logo p {
-	font-size              : 64px;
+	font-size              : 66px;
 	text-transform         : uppercase;
 	background             : radial-gradient(circle, rgba(235, 175, 200, 1) 0%, rgba(191, 97, 97, 0.8715861344537815) 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	font-weight            : 900;
+	font-weight            : 800;
 }
 
 .header__logo span {
-	font-size              : 18px;
+	font-size              : 28px;
 	background             : radial-gradient(circle, rgba(235, 175, 200, 1) 0%, rgba(191, 97, 97, 0.8715861344537815) 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -42,7 +42,7 @@
 }
 
 .header__text-wrapper {
-	font-size      : 24px;
+	font-size      : 34px;
 	display        : flex;
 	justify-content: space-between;
 	align-items    : center;

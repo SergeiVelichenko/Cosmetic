@@ -1,24 +1,24 @@
 /* Price style start */
 
 .price {
-	font-size     : 18px;
-	padding-top   : 60px;
-	padding-bottom: 60px;
+	font-size     : 38px;
+	padding-top   : 80px;
+	padding-bottom: 70px;
 	font-family   : 'Roboto', sans-serif;
-	font-weight   : 400;
+	font-weight   : 500;
 }
 
 .price__table {
-	margin-bottom: 60px;
+	margin-bottom: 70px;
 }
 
 .price__row-name div {
-	font-weight: 600;
+	font-weight: 700;
 }
 
 .price__info-wrapper {
 	box-shadow   : 0px 1px 25px 0px rgba(0, 0, 0, 0.3);
-	border-radius: 5px;
+	border-radius: 6px;
 }
 
 .price__row-name {
@@ -39,9 +39,9 @@
 .price__row-name div {
 	border       : 1px transparent solid;
 	text-align   : center;
-	padding      : 20px;
-	border-radius: 10px;
-	margin       : 5px;
+	padding      : 30px;
+	border-radius: 20px;
+	margin       : 56px;
 	box-shadow   : 0px 1px 25px 0px rgba(0, 0, 0, 0.3);
 }
 
